@@ -1,38 +1,205 @@
-.App {
-  text-align: center;
+/* custom css */
+body{
+  background: url(images/Group\ 15\ \(1\).png) no-repeat top left;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar-toggler{
+  border: none;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navbar-toggler:focus{
+  box-shadow: none;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+.nav-btn{
+  background-color: #EA6D27;
+  padding:10px 18px;
+  border-top-left-radius:8px ;
+  border-bottom-right-radius:8px ;
+ color: #FFFFFF;
+}
+.nav-btn:hover{
+  background-color: black;
+  color: #EA6D27 !important;
+  transition: 0.5s;
+}
+.foot-link:hover{
+  color: #EA6D27 !important;
+}
+Nav a:hover{
+  color: #EA6D27 !important;
+}
+.active{
+  color: #EA6D27 !important;
+}
+/* .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+  color: #EA6D27 !important;
+} */
+.ba{
+  background-color:black;
+  padding:10px 18px;
+  border-top-left-radius:8px ;
+  border-bottom-right-radius:8px ;
+  color: #FFFFFF;
+}
+.ba:hover{
+  color: #EA6D27;
+  transition: 0.5s;
+}
+.ikon:hover{
+  background-color: black;
+  color: #EA6D27 !important;
+  transition: 0.5s;
+}
+.Card{
+  padding-left: 100px;
+}
+.Dish{
+  background-color: #f1f1f1;
+}
+.section-3{
+  background-color: #f1f1f1;
+}
+.pan{
+  background: url(images/Group\ 14.png) no-repeat;
+}
+h1{
+  font-family: serif;
+  font-size: 55px;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+.client{
+  border-radius:60px 30px;
+}
+.swiper {
+  overflow-y: visible !important;
+}
+.client img{
+  margin-top: -80px;
+  margin-bottom: 10px;
+}
+.swiper-pagination{
+  margin-bottom: -70px;
+}
+:root {
+  --swiper-theme-color: #EA6D27 !important;
+}
+.subscribe{
+  background-color: #EA6D27;
+}
+.bgonion{
+  background: url(images/onion.png) bottom left no-repeat;
+}
+.onion{
+  background: url(images/onion.png) no-repeat;
+}
+.leaf{
+  background: url(images/onion.png) no-repeat;
+}
+.section2{
+  background: url(images/ONION2.png) no-repeat;
+}
+.input-card{
+  background: url(images/input-card.png) no-repeat;
+  background-size: cover;
+  border-radius: 15px;
+  margin-top: 40px;
+}
+.tick i{
+  font-size: 11px;
+  padding: 5px;
+  border-radius: 50%;
+  background-color: #EA6D27;
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
+.dishes img{
+  margin-top: -100px;
+  max-width: 170px;
+  margin-left: 20px;
 }
-
-@keyframes App-logo-spin {
+.dishes{
+  border-top-left-radius:35px;
+  border-bottom-right-radius:35px;
+  height: 220px;
+  overflow: visible;
+}
+.dishes:hover{
+  background-color: white;
+}
+.footer{
+  background: url(images/onion.png) right bottom no-repeat;
+}
+.LEAF{
+  background: url(images/footer-bg.png) top left no-repeat;
+}
+.contact-textarea{
+  background: transparent;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .log {
+    animation: App-icon-spin infinite 20s linear;
+  }
+}
+@keyframes App-icon-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
+  }
+}
+@media (prefers-reduced-motion: no-preference) {
+  #animateimg {
+    animation: animateimg-logo-spin infinite 20s linear;
+  }
+}
+@keyframes animateimg-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@media only screen and (max-width: 770px) {
+  @keyframes animateimg-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(0deg);
+    }
+  }
+  .Card{
+    padding: 12px 30px;
+    text-align: center;
+  }
+  h1{
+      font-size: 36px !important;
+      letter-spacing: 0;
+  }
+  .log{
+    display: none;
+  }
+  .dishes{
+    margin-bottom: 60px;
+  }
+}
+@media only screen and (max-width: 990px) {
+  .Card{
+    padding-left: 35px;
+  }
+  h1{
+      font-size: 50px;
+      letter-spacing: 0;
+  }
+  .dishes{
+    margin-bottom: 80px;
+  }
+}
+@media only screen and (max-width: 1100px) {
+  .log{
+    display: none;
+  }
+  .Card{
+    padding-left: 35px;
   }
 }
