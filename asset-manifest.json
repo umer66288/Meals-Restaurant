@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/Meals-Restaurant/static/css/main.89c1057a.css",
+    "main.js": "/Meals-Restaurant/static/js/main.faa01fc6.js",
+    "static/js/787.aab8bd84.chunk.js": "/Meals-Restaurant/static/js/787.aab8bd84.chunk.js",
+    "static/media/Desserts.jpg": "/Meals-Restaurant/static/media/Desserts.7b086bbb3cef58021b95.jpg",
+    "static/media/hero.png": "/Meals-Restaurant/static/media/hero.dc40e74e7d5b6fed6e5f.png",
+    "static/media/Mexican.jpg": "/Meals-Restaurant/static/media/Mexican.b09f7e17a41654942752.jpg",
+    "static/media/input-card.png": "/Meals-Restaurant/static/media/input-card.f748a876ee9f6362db36.png",
+    "static/media/Dish.png": "/Meals-Restaurant/static/media/Dish.44fba7a16cf988039bfe.png",
+    "static/media/chinies.jpg": "/Meals-Restaurant/static/media/chinies.2868b4ffd33c64db9dde.jpg",
+    "static/media/Italian.jpg": "/Meals-Restaurant/static/media/Italian.05054f7d086c9d1a1818.jpg",
+    "static/media/Indian.jpg": "/Meals-Restaurant/static/media/Indian.bda1dfc277a0d265c6b0.jpg",
+    "static/media/Thai.jpg": "/Meals-Restaurant/static/media/Thai.5a499e53bd85fadfb049.jpg",
+    "static/media/Dish-1.png": "/Meals-Restaurant/static/media/Dish-1.3d951f6db4ff5278debe.png",
+    "static/media/Dish-3.png": "/Meals-Restaurant/static/media/Dish-3.2ae973d80f3f4399bcfc.png",
+    "static/media/Dish-4.png": "/Meals-Restaurant/static/media/Dish-4.1735d9ce03df0c886f0d.png",
+    "static/media/Dish-2.png": "/Meals-Restaurant/static/media/Dish-2.4de710cc5e8fccdd8104.png",
+    "static/media/chef 1.png": "/Meals-Restaurant/static/media/chef 1.d9ff536b2cfccbefb9a8.png",
+    "static/media/Group 14.png": "/Meals-Restaurant/static/media/Group 14.7508029cdf42d9c9eb21.png",
+    "static/media/blog-image1.png": "/Meals-Restaurant/static/media/blog-image1.90e15b99548a1b3b055d.png",
+    "static/media/ONION2.png": "/Meals-Restaurant/static/media/ONION2.95f5dd0e0bb2836e8e81.png",
+    "static/media/blog-image4.png": "/Meals-Restaurant/static/media/blog-image4.e1fb023771651569eb06.png",
+    "static/media/blog-image5.png": "/Meals-Restaurant/static/media/blog-image5.9356d6efb392cbd6edd7.png",
+    "static/media/slider-image3.png": "/Meals-Restaurant/static/media/slider-image3.10815bbada8d5d0b30ad.png",
+    "static/media/slider-image_1.png": "/Meals-Restaurant/static/media/slider-image_1.8a46e929e5fdda746baf.png",
+    "static/media/onion.png": "/Meals-Restaurant/static/media/onion.dfadcd04a73f555ef9cb.png",
+    "static/media/logo 1.png": "/Meals-Restaurant/static/media/logo 1.e7d013120ec347e0bd03.png",
+    "static/media/footer-bg.png": "/Meals-Restaurant/static/media/footer-bg.2effa0cbb04b431b985e.png",
+    "static/media/testimonial2.png": "/Meals-Restaurant/static/media/testimonial2.95a8ad470af5ef10dd5b.png",
+    "static/media/testimonial1.png": "/Meals-Restaurant/static/media/testimonial1.fa48b0ce4178b4da7d1f.png",
+    "index.html": "/Meals-Restaurant/index.html",
+    "main.89c1057a.css.map": "/Meals-Restaurant/static/css/main.89c1057a.css.map",
+    "main.faa01fc6.js.map": "/Meals-Restaurant/static/js/main.faa01fc6.js.map",
+    "787.aab8bd84.chunk.js.map": "/Meals-Restaurant/static/js/787.aab8bd84.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89c1057a.css",
+    "static/js/main.faa01fc6.js"
+  ]
+}
